@@ -23,5 +23,4 @@ This is a simple registration form project created for FreeCodeCamp. The form co
 ## Technologies Used
 
 - **HTML5**: Structure and semantic markup.
-- **CSS3**: Styling and layout (optional customization available).
-- **JavaScript (optional)**: For enhanced interactivity and validation.
+- **CSS3**: Styling and layout.
