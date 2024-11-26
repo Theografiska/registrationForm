@@ -24,3 +24,21 @@ This is a simple registration form project created for FreeCodeCamp. The form co
 
 - **HTML5**: Structure and semantic markup.
 - **CSS3**: Styling and layout.
+
+
+## License
+This project is licensed under the MIT License - feel free to use, modify, and distribute as needed.
+
+## Contributing
+Contributions are welcome! If you'd like to improve this project:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Commit your changes (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature-branch).
+5. Open a pull request.
+
+## Contact
+For any questions or feedback, feel free to reach out via the issue tracker or email at theodor.kaljo@gmail.com.
+
+Enjoy coding! 🚀
